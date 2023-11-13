@@ -1,0 +1,15 @@
+body {
+    margin: 25px;
+    background-color: rgb(240,230,290);
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    text-align: left;
+  }
+  
+  h1 {
+    font-size: 35px;
+    color: darkolivegreen;
+    font-family: 'Verdana', sans-serif;
+    margin-top: 5px;
+  }
+  
